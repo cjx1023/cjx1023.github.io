@@ -7,7 +7,7 @@
 #### Contact
 
 Email: 241240032[at]smail.nju.edu.cn \
-call me:18554399071
+Call me:18554399071
 
 #### Education
 匡亚明学院, 南京大学, 2024-至今.\
