@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![cjx1023](https://img.shields.io/badge/cjx1023-github-blue?logo=github)](https://github.com/cjx1023)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+你好哇，这是我的个人主页，我是一名来自南京大学匡亚明学院的大二在读学生。
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 241240032[at]smail.nju.edu.cn
+call me:18554399071
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
+，南京大学, 2024—.\
+山东省北镇中学，2022-2024.
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+脑科学与人工智能.
